@@ -6,4 +6,5 @@ The purpose of this project was to design and implement a working program to sim
 2. Rishal Hurbans, Connect Puzzle Game, https://github.com/rishal-hurbans/Grokking-Artificial-Intelligence-Algorithms/tree/master/ch03-intelligent_search/adversarial_search
 
 Thanks,
-- Kay
+
+\- Kay
